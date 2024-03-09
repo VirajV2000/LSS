@@ -9,3 +9,7 @@ echo 'execute single quotes $var $test'
 
 #reverse quotes
 echo "this hostname is :`hostname`"
+
+#comment
+#use hash for commenting
+
